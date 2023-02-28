@@ -1,0 +1,422 @@
+{
+  "events": [
+    {
+      "title": "Mastering iOS 15",
+      "status": "Online",
+      "type": "Umum",
+      "imageUrl": "./assets/img/events/image (1).jpg",
+      "start": "17 NOVEMBER 2021 1:00 SIANG",
+      "end": "26 NOVEMBER 2021 5:00 SORE",
+      "price": "Rp 299.000",
+      "discount": "Rp 199.000",
+      "author": {
+        "name": "Raeihan Alvaro",
+        "imageUrl": "./assets/img/events/image (1).jpg"
+      },
+      "user": {
+        "ticketCount": 7,
+        "point": 10
+      }
+    },
+    {
+      "title": "Swift Programmers",
+      "status": "Online",
+      "type": "Men",
+      "imageUrl": "./assets/img/events/image (2).jpg",
+      "start": "2 Maret 2023 10:00 PAGI",
+      "end": "2 Maret 2023 5:00 SORE",
+      "price": "Rp 329.000",
+      "discount": "Rp 159.000",
+      "author": {
+        "name": "Avery Martinez",
+        "imageUrl": "./assets/img/events/image (2).jpg"
+      },
+      "user": {
+        "ticketCount": 5,
+        "point": 20
+      }
+    },
+    {
+      "title": "Building Powerful iOS",
+      "status": "Online",
+      "type": "Women",
+      "imageUrl": "./assets/img/events/image (3).jpg",
+      "start": "2 Maret 2023 10:00 PAGI",
+      "end": "2 Maret 2023 5:00 SORE",
+      "price": "Rp 329.000",
+      "discount": "Rp 159.000",
+      "author": {
+        "name": "Leo Chen",
+        "imageUrl": "./assets/img/events/image (3).jpg"
+      },
+      "user": {
+        "ticketCount": 15,
+        "point": 45
+      }
+    },
+    {
+      "title": "A Comprehensive Guide",
+      "status": "Online",
+      "type": "Women",
+      "imageUrl": "./assets/img/events/image (4).jpg",
+      "start": "2 Maret 2023 10:00 PAGI",
+      "end": "2 Maret 2023 5:00 SORE",
+      "price": "Rp 499.000",
+      "discount": "Rp 350.000",
+      "author": {
+        "name": "Harper Patel",
+        "imageUrl": "./assets/img/events/image (4).jpg"
+      },
+      "user": {
+        "ticketCount": 15,
+        "point": 45
+      }
+    },
+    {
+      "title": "React Native Development",
+      "status": "Online",
+      "type": "Men",
+      "imageUrl": "./assets/img/events/image (5).jpg",
+      "start": "15 MARET 2022 9:00 PAGI",
+      "end": "20 MARET 2022 4:00 SORE",
+      "price": "Rp 500.000",
+      "discount": "Rp 250.000",
+      "author": {
+        "name": "Anindita Aisyah",
+        "imageUrl": "./assets/img/events/image (5).jpg"
+      },
+      "user": {
+        "ticketCount": 12,
+        "point": 5
+      }
+    },
+    {
+      "title": "Python for Data Science",
+      "status": "Online",
+      "type": "Women",
+      "imageUrl": "./assets/img/events/image (6).jpg",
+      "start": "25 APRIL 2022 9:00 PAGI",
+      "end": "29 APRIL 2022 4:00 SORE",
+      "price": "Rp 750.000",
+      "discount": "Rp 500.000",
+      "author": {
+        "name": "Ahmad Firdaus",
+        "imageUrl": "./assets/img/events/image (6).jpg"
+      },
+      "user": {
+        "ticketCount": 20,
+        "point": 15
+      }
+    },
+    {
+      "title": "How to Build a Successful Startup",
+      "status": "Offline",
+      "type": "Umum",
+      "imageUrl": "./assets/img/events/image (7).jpg",
+      "start": "10 JULI 2022 9:00 PAGI",
+      "end": "12 JULI 2022 4:00 SORE",
+      "price": "Rp 1.500.000",
+      "discount": "Rp 1.000.000",
+      "author": {
+        "name": "Indra Gunawan",
+        "imageUrl": "./assets/img/events/image (7).jpg"
+      },
+      "user": {
+        "ticketCount": 30,
+        "point": 20
+      }
+    },
+    {
+      "title": "Introduction to Machine Learning",
+      "status": "Online",
+      "type": "Umum",
+      "imageUrl": "./assets/img/events/image (8).jpg",
+      "start": "1 AGUSTUS 2022 9:00 PAGI",
+      "end": "5 AGUSTUS 2022 4:00 SORE",
+      "price": "Rp 1.000.000",
+      "discount": "Rp 500.000",
+      "author": {
+        "name": "Aisyah Nur",
+        "imageUrl": "./assets/img/events/image (8).jpg"
+      },
+      "user": {
+        "ticketCount": 15,
+        "point": 10
+      }
+    },
+    {
+      "title": "Web Development with React",
+      "status": "Offline",
+      "type": "Women",
+      "imageUrl": "./assets/img/events/image (9).jpg",
+      "start": "20 OKTOBER 2022 9:00 PAGI",
+      "end": "22 OKTOBER 2022 4:00 SORE",
+      "price": "Rp 2.500.000",
+      "discount": "Rp 1.500.000",
+      "author": {
+        "name": "Fajri Ramadhan",
+        "imageUrl": "./assets/img/events/image (9).jpg"
+      },
+      "user": {
+        "ticketCount": 25,
+        "point": 30
+      }
+    }
+  ],
+  "books": [
+    {
+      "title": "Clean Code: A Handbook",
+      "stock": 23,
+      "status": "Best Seller",
+      "imageUrl": "/assets/img/books/image (1).jpg",
+      "price": "Rp 90.000",
+      "discountAmount": "Rp 20.000",
+      "discount": "Rp 70.000",
+      "rating": "5.0",
+      "soldOut": 20,
+      "user": {
+        "point": 41
+      }
+    },
+    {
+      "title": "Software Construction",
+      "stock": "Pre-Order",
+      "status": "Best Seller",
+      "imageUrl": "/assets/img/books/image (2).jpg",
+      "price": "Rp 80.000",
+      "discountAmount": "Rp 15.000",
+      "discount": "Rp 65.000",
+      "rating": "5.0",
+      "soldOut": 5,
+      "user": {
+        "point": 15
+      }
+    },
+    {
+      "title": "Pragmatic Programmer",
+      "stock": 22,
+      "status": "Best Seller",
+      "imageUrl": "/assets/img/books/image (3).jpg",
+      "price": "Rp 60.000",
+      "discountAmount": "Rp 10.000",
+      "discount": "Rp 50.000",
+      "rating": "5.0",
+      "soldOut": 25,
+      "user": {
+        "point": 10
+      }
+    },
+    {
+      "title": "Software Craftsmanship",
+      "stock": 30,
+      "status": "Best Seller",
+      "imageUrl": "/assets/img/books/image (4).jpg",
+      "price": "Rp 90.000",
+      "discountAmount": "Rp 20.000",
+      "discount": "Rp 70.000",
+      "rating": "5.0",
+      "soldOut": 25,
+      "user": {
+        "point": 20
+      }
+    },
+    {
+      "title": "Clean Code",
+      "stock": 32,
+      "status": "Bestseller",
+      "imageUrl": "/assets/img/books/image (5).jpg",
+      "price": "Rp 49.000",
+      "discountAmount": "Rp 10.000",
+      "discount": "Rp 39.000",
+      "rating": "4.7",
+      "soldOut": 20,
+      "user": {
+        "point": 50
+      }
+    },
+    {
+      "title": "Python Crash Course",
+      "stock": 12,
+      "status": "Bestseller",
+      "imageUrl": "/assets/img/books/image (6).jpg",
+      "price": "Rp 29.000",
+      "discountAmount": "Rp 5.000",
+      "discount": "RP 24.000",
+      "rating": "4.8",
+      "soldOut": 12,
+      "user": {
+        "point": 35
+      }
+    },
+    {
+      "title": "The Clean Coder",
+      "stock": "Pre-Order",
+      "status": "Editor's Choice",
+      "imageUrl": "/assets/img/books/image (7).jpg",
+      "price": "Rp 34.000",
+      "discountAmount": "Rp 7.000",
+      "discount": "Rp 27.000",
+      "rating": "4.6",
+      "soldOut": 5,
+      "user": {
+        "point": 45
+      }
+    },
+    {
+      "title": "Eloquent JavaScript",
+      "stock": 23,
+      "status": "Recommended",
+      "imageUrl": "/assets/img/books/image (8).jpg",
+      "price": "Rp 39.000",
+      "discountAmount": "Rp 8.000",
+      "discount": "Rp 31.000",
+      "rating": "4.9",
+      "soldOut": 7,
+      "user": {
+        "point": 27
+      }
+    },
+    {
+      "title": "Designing Data-Intensive",
+      "stock": "Pre-Order",
+      "status": "Coming Soon",
+      "imageUrl": "/assets/img/books/image (9).jpg",
+      "price": "Rp 49.000",
+      "discountAmount": "Rp 0",
+      "discount": "Rp 49.000",
+      "rating": "4.7",
+      "soldOut": 0,
+      "user": {
+        "point": 10
+      }
+    }
+  ],
+  "tshirts": [
+    {
+      "title": "Kaos T-Shirt Pria Basic",
+      "stock": "Tersedia",
+      "status": "Baru",
+      "imageUrl": "/assets/img/tshirts/image (1).jpg",
+      "price": "Rp 99.000",
+      "discountAmount": "Rp 10.000",
+      "discount": "Rp 89.000",
+      "rating": "4.5",
+      "soldOut": 8,
+      "user": {
+        "point": 20
+      }
+    },
+    {
+      "title": "Kaos T-Shirt Pria V-Neck",
+      "stock": "Tersedia",
+      "status": "Bestseller",
+      "imageUrl": "/assets/img/tshirts/image (2).jpg",
+      "price": "Rp 149.000",
+      "discountAmount": "Rp 15.000",
+      "discount": "Rp 134.000",
+      "rating": "4.8",
+      "soldOut": 12,
+      "user": {
+        "point": 25
+      }
+    },
+    {
+      "title": "Kaos T-Shirt",
+      "stock": "Tersedia",
+      "status": "Rekomendasi",
+      "imageUrl": "/assets/img/tshirts/image (3).jpg",
+      "price": "Rp 179.000",
+      "discountAmount": "Rp 20.000",
+      "discount": "Rp 159.000",
+      "rating": "4.7",
+      "soldOut": 3,
+      "user": {
+        "point": 30
+      }
+    },
+    {
+      "title": "Kaos T-Shirt Pria Grafis",
+      "stock": "Tersedia",
+      "status": "Bestseller",
+      "imageUrl": "/assets/img/tshirts/image (4).jpg",
+      "price": "Rp 199.000",
+      "discountAmount": "Rp 25.000",
+      "discount": "Rp 174.000",
+      "rating": "4.6",
+      "soldOut": 10,
+      "user": {
+        "point": 40
+      }
+    },
+    {
+      "title": "Kaos T-Shirt Price",
+      "stock": "Tersedia",
+      "status": "Baru",
+      "imageUrl": "/assets/img/tshirts/image (5).jpg",
+      "price": "Rp 129.000",
+      "discountAmount": "Rp 15.000",
+      "discount": "Rp 114.000",
+      "rating": "4.3",
+      "soldOut": 5,
+      "user": {
+        "point": 15
+      }
+    },
+    {
+      "title": "Kaos Polo Pria",
+      "stock": "Tersedia",
+      "status": "Bestseller",
+      "imageUrl": "/assets/img/tshirts/image (6).jpg",
+      "price": "Rp 249.000",
+      "discountAmount": "Rp 30.000",
+      "discount": "Rp 219.000",
+      "rating": "4.3",
+      "soldOut": 5,
+      "user": {
+        "point": 15
+      }
+    },
+    {
+      "title": "Kaos Polo Pria",
+      "stock": "Tersedia",
+      "status": "Bestseller",
+      "imageUrl": "/assets/img/tshirts/image (6).jpg",
+      "price": "Rp 249.000",
+      "discountAmount": "Rp 30.000",
+      "discount": "Rp 219.000",
+      "rating": "4.3",
+      "soldOut": 5,
+      "user": {
+        "point": 15
+      }
+    },
+    {
+      "title": "Kaos Polo Pria",
+      "stock": "Tersedia",
+      "status": "Bestseller",
+      "imageUrl": "/assets/img/tshirts/image (6).jpg",
+      "price": "Rp 249.000",
+      "discountAmount": "Rp 30.000",
+      "discount": "Rp 219.000",
+      "rating": "4.3",
+      "soldOut": 5,
+      "user": {
+        "point": 15
+      }
+    },
+    {
+      "title": "Kaos Polo Pria",
+      "stock": "Tersedia",
+      "status": "Bestseller",
+      "imageUrl": "/assets/img/tshirts/image (6).jpg",
+      "price": "Rp 249.000",
+      "discountAmount": "Rp 30.000",
+      "discount": "Rp 219.000",
+      "rating": "4.3",
+      "soldOut": 5,
+      "user": {
+        "point": 15
+      }
+    }
+  ]
+}
